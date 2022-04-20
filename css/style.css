@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.topside{
+  background-color: #B4FF9F;
+  position:relative;
+  padding-top: 100px;
+}
+h1{
+  font-size: 75px;
+  margin-top: 100px;
+  font-family: 'Square Peg', cursive;
+}
+p{
+  font-size: 25px;
+  font-family: 'Great Vibes', cursive;
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  bottom: 550px;
+}
+.bottom-cloud{
+  position: absolute;
+
+
+}
+.HAMZANAME{
+  font-family: 'Bebas Neue', cursive;
+}
+h2{
+  font-family: 'Bebas Neue', cursive;
+}
+h3{
+  font-family: 'Bebas Neue', cursive;
+}
